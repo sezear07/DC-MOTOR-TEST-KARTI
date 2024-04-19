@@ -6,6 +6,9 @@ Devre 7-30v arası gerilim ile çalışıp In1, Dır1 ve In2, Dır2 girişlerine
 Devre de Low side da N kanal IRF3205, High side da P kanal IRF4905 mosfetleri kullanılmıştır. High side da P kanal mosfet kullanılmasının sebebi ekstra BOOTSTRAP entegresi kullanmamak içindir. Mosfetleri sürmek için Push Pull yöntemi uygulanmıştır. Bu yöntemin uygulanma amacı Mosfetin saturasyon bölgesinde daha az kalması ve mosfetin daha hızlı bir şekilde kesime gitmesi amaçlanmıştır. Mosfet bu yöntem sayesinde daha hızlı anahatarlama yapabilmektedir.
 
 ![43222](https://github.com/sezear07/DC-MOTOR-TEST-KARTI/assets/167361624/04e55ebd-b8c6-4401-bb7b-b4f7ba68e1c4)
+Şematik Tasarım
 ![54545444](https://github.com/sezear07/DC-MOTOR-TEST-KARTI/assets/167361624/4ef15740-ecf6-450b-aeee-dc7c3cd8e112)
 
-In sinyali 1.8 2.5 3.3 ve 5V gerilimler ile kontrol edilebilir. Gerekli PCB tasarımı kullanım kolaylığı amaçlanarak tasarlanmıştır. 
+Gerekli PCB tasarımı kullanım kolaylığı amaçlanarak tasarlanmıştır ve EMI den etkilenmesi muhtemel parçaların konum ve yol dizaynına dikkat edilmiştir.
+![gdfgfff](https://github.com/sezear07/DC-MOTOR-TEST-KARTI/assets/167361624/37c96adb-9878-4c74-8721-a267e44538cf)
+![kjnhhjkjuhuhjvbglfcukhvgfukjytgv](https://github.com/sezear07/DC-MOTOR-TEST-KARTI/assets/167361624/41e348a6-8798-4eac-b7f1-3fea309881bb)
