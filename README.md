@@ -1,0 +1,1 @@
+Bu projede 7-30v arası 30A kadar olan DC motorların Ardunio, STM32, Raspberry Pi ve PLC gibi cihazlar ile kontrol edilmesi ve ayrıca istenilen durumlarda, anahtar ve potasyometre yardımı ile kontol edilebilmesi amaçlanmıştır. Bu devrenin şematik ve pcb tasarımı yapılıp, JLCPCB tarafından üretimi yapılmıştır.
